@@ -64,15 +64,23 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 
+<br />
+
 ---
 
 <img align="left" alt="Devin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devin1996&show_icons=true&hide_border=true" />
+
+<br />
 
 ---
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
+
+
 ---
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin1996&layout=compact)](https://github.com/devin1996/github-readme-stats)
 
