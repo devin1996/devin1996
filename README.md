@@ -74,15 +74,14 @@
 
 ---
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+<br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin1996&layout=compact)](https://github.com/devin1996/github-readme-stats)
 
 
 ---
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devin1996&layout=compact)](https://github.com/devin1996/github-readme-stats)
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
 
 [website]: https://devinchandula.blogspot.com
